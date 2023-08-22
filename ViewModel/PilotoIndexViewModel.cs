@@ -19,11 +19,11 @@ public List<Piloto> pilotos {get; set; } = new List<Piloto>();
         [Display(Name = "Apellido")]        
 
         public string? PilotoApellido {get; set;}
-        [Display(Name = "Dni")]        
+        [Display(Name = "DNI")]        
 
         public int PilotoDni {get; set;}
         // public LicenciaType InstructorTipoLicencia { get; set; }
-        [Display(Name = "Numero registro")]        
+        [Display(Name = "Registro numero")]        
 
         [Required(ErrorMessage ="Debe ingresar el Numero de licencia")]
         public int PilotoNumeroLicencia {get; set;}

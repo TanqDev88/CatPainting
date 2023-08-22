@@ -11,7 +11,7 @@ namespace Race_Track.Models
         public int VehiculoId { get; set; }
 
         [Display(Name = "Nombre Propietario")]
-        [Required(ErrorMessage ="Debe ingresar el nombre del piloto")]
+        [Required(ErrorMessage ="Debe ingresar el nombre del propietario")]
         [MinLength(3, ErrorMessage = "El nombre ingresado debe poseer mas de tres letras")]  
         [MaxLength(15)]
         public string? VehiculoNombre {get; set;}
@@ -29,11 +29,11 @@ namespace Race_Track.Models
         public string? VehiculoTipo {get; set;}
 
         [Display(Name = "Matricula")]
-        [Required(ErrorMessage ="Debe ingresar el Numero de matricula")]
+        [Required(ErrorMessage ="Debe ingresar el numero de matricula")]
         // [MinLength(3, ErrorMessage = "El nombre ingresado debe poseer mas de tres letras")]  
         // [MaxLength(15)] 
-        [MinLength(6, ErrorMessage = "La matricula debe contener seis caracteres")]  
-        [MaxLength(6)]   
+        [MinLength(6, ErrorMessage = "La matricula debe contener al menos 6 caracteres")]  
+        [MaxLength(7)]   
         public string? VehiculoMatricula {get; set;}
 
         [Display(Name = "Modelo")]
