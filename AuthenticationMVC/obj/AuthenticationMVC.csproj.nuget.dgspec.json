@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\olive\\RepoIstea\\herramientas-parcial1-OliveraJorgeDaniel\\Proyect_RaceTrack\\Proyect_RaceTrack.csproj": {}
+    "C:\\Users\\olive\\RepoIstea\\herramientas-parcial1-OliveraJorgeDaniel\\AuthenticationMVC\\AuthenticationMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\olive\\RepoIstea\\herramientas-parcial1-OliveraJorgeDaniel\\Proyect_RaceTrack\\Proyect_RaceTrack.csproj": {
+    "C:\\Users\\olive\\RepoIstea\\herramientas-parcial1-OliveraJorgeDaniel\\AuthenticationMVC\\AuthenticationMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\olive\\RepoIstea\\herramientas-parcial1-OliveraJorgeDaniel\\Proyect_RaceTrack\\Proyect_RaceTrack.csproj",
-        "projectName": "Proyect_RaceTrack",
-        "projectPath": "C:\\Users\\olive\\RepoIstea\\herramientas-parcial1-OliveraJorgeDaniel\\Proyect_RaceTrack\\Proyect_RaceTrack.csproj",
+        "projectUniqueName": "C:\\Users\\olive\\RepoIstea\\herramientas-parcial1-OliveraJorgeDaniel\\AuthenticationMVC\\AuthenticationMVC.csproj",
+        "projectName": "AuthenticationMVC",
+        "projectPath": "C:\\Users\\olive\\RepoIstea\\herramientas-parcial1-OliveraJorgeDaniel\\AuthenticationMVC\\AuthenticationMVC.csproj",
         "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\olive\\RepoIstea\\herramientas-parcial1-OliveraJorgeDaniel\\Proyect_RaceTrack\\obj\\",
+        "outputPath": "C:\\Users\\olive\\RepoIstea\\herramientas-parcial1-OliveraJorgeDaniel\\AuthenticationMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,23 +52,13 @@
               "target": "Package",
               "version": "[7.0.5, )"
             },
-            "Microsoft.EntityFrameworkCore.Design": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[7.0.12, )"
-            },
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
-              "version": "[7.0.12, )"
+              "version": "[7.0.5, )"
             },
             "Microsoft.EntityFrameworkCore.Tools": {
               "target": "Package",
-              "version": "[7.0.12, )"
-            },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[7.0.10, )"
+              "version": "[7.0.5, )"
             }
           },
           "imports": [

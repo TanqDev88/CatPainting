@@ -11122,11 +11122,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\olive\\RepoIstea\\Dependency_injection_project\\Proyect_RaceTrack\\Proyect_RaceTrack.csproj",
+      "projectUniqueName": "C:\\Users\\olive\\RepoIstea\\herramientas-parcial1-OliveraJorgeDaniel\\Proyect_RaceTrack\\Proyect_RaceTrack.csproj",
       "projectName": "Proyect_RaceTrack",
-      "projectPath": "C:\\Users\\olive\\RepoIstea\\Dependency_injection_project\\Proyect_RaceTrack\\Proyect_RaceTrack.csproj",
+      "projectPath": "C:\\Users\\olive\\RepoIstea\\herramientas-parcial1-OliveraJorgeDaniel\\Proyect_RaceTrack\\Proyect_RaceTrack.csproj",
       "packagesPath": "C:\\Users\\olive\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\olive\\RepoIstea\\Dependency_injection_project\\Proyect_RaceTrack\\obj\\",
+      "outputPath": "C:\\Users\\olive\\RepoIstea\\herramientas-parcial1-OliveraJorgeDaniel\\Proyect_RaceTrack\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\olive\\AppData\\Roaming\\NuGet\\NuGet.Config",

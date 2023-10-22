@@ -4,7 +4,7 @@
     <TargetFramework>net7.0</TargetFramework>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
-    <UserSecretsId>aspnet-Proyect_RaceTrack-3beda160-cb23-4391-bf2b-fc9b24700a6c</UserSecretsId>
+    <UserSecretsId>aspnet-Proyect_RaceTrack-237bc5b6-0c12-42f2-8984-210e8114057a</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
