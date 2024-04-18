@@ -1,1 +1,1 @@
-# Picaso Painting
+# Cat Painting
