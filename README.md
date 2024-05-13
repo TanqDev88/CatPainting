@@ -38,6 +38,6 @@ This repository uses some intermediate CSS techniques to code a cat painting web
 ## Project installation
 1 - Clone the project from the following Github URL. 
 ```
-$ git clone [git@github.com:Tanqueta88/PianoApp.git](https://github.com/Tanqueta88/PianoApp.git)
+$ git clone https://github.com/Tanqueta88/CatPainting.git
 
 ```
