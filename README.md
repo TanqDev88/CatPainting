@@ -18,6 +18,7 @@ This repository uses some intermediate CSS techniques to code a cat painting web
    <p align="justify">The project is finished as it implements CSS to improve the visual aspects of the application.🔨 </p>
    </details>
    <hr>
+   
 <a name="technologies"></a> 
    ## Used technology  💻 
    
